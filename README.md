@@ -1,0 +1,97 @@
+# ちゃんみな – BEST BOY FRIEND / Like This (SHOWMUSIK MIX) [Live]
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.38] どうって事ない あんたは男じゃない
+[00:21.79] 私はあんたにとって女じゃない
+[00:24.17] You are my best friend right? そう思ってた
+[00:42.17] 
+[00:29.10] 昔からずっと一緒にいるし
+[00:31.63] ほとんど知ってる元カノ履歴
+[00:34.01] あんたに何回話して話されたかな
+[00:36.51] うちらの今好きなこの話
+[00:42.01] 
+[00:38.79] あんたとなんて絶対ありえない
+[00:41.30] いつもの電話でそう話した
+[00:43.65] 俺も願い下げだって言ってたじゃん
+[00:46.15] なのに今お互い目を逸らさないまま
+[00:48.35] 何かに気付いて何か言いたげだ
+[00:50.65] でも今に始まった事じゃなかった
+[00:53.38] 長い長い嘘をつくくらい
+[00:55.72] お互い欲しくてたまらなかった
+[01:02.72] 
+[00:57.52] 表面上 We are best friends
+[00:59.83] 二人とも嘘つき
+[01:02.08] Baby will you ride, baby till you die
+[01:04.63] I just need you, you, you, you, you
+[01:22.13] 
+[01:07.10] I don't get high on them riches
+[01:09.23] もうなっちゃいなよ正直に
+[01:11.93] Baby will you ride, baby till you die
+[01:14.18] I just need you, you, you, you, you
+[01:31.68] 
+[01:16.78] I just need you, you, you, you, you
+[01:19.16] I just need I just need...
+[01:21.60] I just need you, you, you, you, you
+[01:23.93] I just need I just need...
+[01:26.48] I just need you, you, you, you, you
+[01:28.57] I just need I just need...
+[01:31.25] I just need you, you, you, you, you
+[01:34.23] My best boy friend
+[01:43.23] 
+[01:36.15] 一線を越しちゃう そんなの得意じゃん
+[01:38.74] 昔のうちらバカみたいに遊んだ
+[01:41.20] 今でもバカじゃん 好きって言えば？
+[01:43.36] あんたから先にすぐすむから
+[01:49.86] 
+[01:45.97] 友情なんてとっくに無かったうちら
+[01:48.31] 全部ほっぽってくる覚悟はできた？
+[01:51.08] 映画みたい 親友との love story
+[01:53.15] いけない 感じ悪くない
+[01:58.65] 
+[01:55.41] 寂しいだけなのか 若気の至り？
+[01:57.93] 黒歴史なるか驚かれるか？
+[02:00.21] 秘密にしようか？試してみようか？
+[02:02.77] あなたと私で友情の延長戦
+[02:05.09] 失敗もまだ許されるうちに
+[02:07.59] 本気になったら面白くない？
+[02:09.89] でも私はもうすでに本気
+[02:12.32] I was liar 欲しくてたまらない
+[02:22.32] 
+[02:14.23] 表面上 We are best friends
+[02:16.68] 二人とも嘘つき
+[02:19.05] Baby will you ride, baby till you die
+[02:21.44] I just need you, you, you, you, you
+[02:38.94] 
+[02:23.80] I don't get high on them riches
+[02:26.09] もうなっちゃいなよ正直に
+[02:28.82] Baby will you ride, baby till you die
+[02:31.08] I just need you, you, you, you, you
+[02:48.58] 
+[02:33.55] I just need you, you, you, you, you
+[02:35.93] I just need I just need...
+[02:38.32] I just need you, you, you, you, you
+[02:40.73] I just need I just need...
+[02:43.19] I just need you, you, you, you, you
+[02:45.27] I just need I just need...
+[02:47.96] I just need you, you, you, you, you
+[02:50.45] I just need you, you, you, you, you
+[03:07.95] 
+[02:52.51] 表面上 We are best friends
+[02:54.95] 二人とも嘘つき
+[02:57.50] Baby will you ride, baby till you die
+[02:59.78] I just need you, you, you, you, you
+[03:17.28] 
+[03:02.16] I don't get high on them riches
+[03:04.58] もうなっちゃいなよ正直に
+[03:07.24] Baby will you ride, baby till you die
+[03:09.58] I just need you, you, you, you, you
+[03:27.08] 
+[03:11.82] You got me so
+[03:12.35] Stuck on your heart
+[03:17.26] Stuck on your heart
+[03:21.91] 強がらないで 友達をやめようよ
+[03:26.95] Stuck on your heart
+[03:30.25] Stuck on your heart
+```
