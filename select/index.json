@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "BEST BOY FRIEND / Like This (SHOWMUSIK MIX) [Live]",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-03-12T12:11:09.009793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Boy Friend",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/01_Best_Boy_Friend_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BEST BOY FRIEND",
+      "artist": "CHANMINA (ちゃんみな)",
+      "has_synced": true,
+      "path": "select/02_BEST_BOY_FRIEND_CHANMINA_(ちゃんみな).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEST BOY FRIEND",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_BEST_BOY_FRIEND_ちゃんみな.txt"
+    }
+  ]
+}
